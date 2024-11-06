@@ -1,5 +1,6 @@
 # Vpokefficency
 
+![image](https://github.com/user-attachments/assets/0038e002-eb80-4ed0-bfca-1945158ab241)
  
 The above pictures shows the architecture used in the Vpokefficency solution. 
 # VPokefficiency Solution Architecture
@@ -57,3 +58,15 @@ For example, if a type was both strong and weak against another type, the result
 ```
 
 This approach effectively captures the complex nature of Pokémon type matchups, including both strong and weak relationships.
+
+## Screenshopt of running app
+
+![image](https://github.com/user-attachments/assets/3441ac4f-3854-46fd-ab2d-16b5907b49f6)
+
+
+## Screenshot of testing results
+
+ ![image](https://github.com/user-attachments/assets/0e732517-2f72-4170-a416-88242c7e32a6)
+
+
+
